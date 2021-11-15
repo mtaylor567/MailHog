@@ -1,4 +1,4 @@
-MailHog [ ![Download](https://img.shields.io/github/release/mailhog/MailHog.svg) ](https://github.com/mailhog/MailHog/releases/tag/v1.0.0) [![GoDoc](https://godoc.org/github.com/mailhog/MailHog?status.svg)](https://godoc.org/github.com/mailhog/MailHog) [![Build Status](https://travis-ci.org/mailhog/MailHog.svg?branch=master)](https://travis-ci.org/mailhog/MailHog)
+MailHog [ ![Download](https://img.shields.io/github/release/kernle32dll/MailHog.svg) ](https://github.com/kernle32dll/MailHog/releases/tag/v1.0.0) [![GoDoc](https://godoc.org/github.com/kernle32dll/MailHog?status.svg)](https://godoc.org/github.com/kernle32dll/MailHog) [![Build Status](https://travis-ci.org/kernle32dll/MailHog.svg?branch=master)](https://travis-ci.org/kernle32dll/MailHog)
 =========
 
 Inspired by [MailCatcher](http://mailcatcher.me/), easier to install.
@@ -113,7 +113,7 @@ sendmail_path = /usr/sbin/sendmail -S mail:1025
 
 MailHog is a rewritten version of [MailHog](https://github.com/ian-kent/MailHog), which was born out of [M3MTA](https://github.com/ian-kent/M3MTA).
 
-Clone this repository to ```$GOPATH/src/github.com/mailhog/MailHog``` and type ```make deps```.
+Clone this repository to ```$GOPATH/src/github.com/kernle32dll/MailHog``` and type ```make deps```.
 
 See the [Building MailHog](/docs/BUILD.md) guide.
 

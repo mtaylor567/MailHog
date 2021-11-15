@@ -5,7 +5,7 @@ Deploying MailHog
 
 You can run MailHog locally from the command line.
 
-    go get github.com/mailhog/MailHog
+    go get github.com/kernle32dll/MailHog
     MailHog -h
 
 To configure MailHog, use the environment variables or command line flags
